@@ -20,7 +20,7 @@ _A console app for counting the number of coins necessary to make change._
 | Program calculates how many dimes are required to reach a given amount (rounded down) | Amount of money ($4.99) | Number of dimes required (49) |
 | Program calculates how many nickels are required to reach a given amount (rounded down) | Amount of money ($4.99) | Number of nickels required (99) |
 | Program calculates how many pennies are required to reach a given amount (rounded down) | Amount of money ($4.99) | Number of pennies required (499) |
-| Program recursively calculates how many of all types of coins are needed | Amount of money ($4.99) | Number and types of coins needed ()
+| Program calculates how many of all types of coins are needed | Amount of money ($4.99) | Number and types of coins needed (19 quarters, 0 dimes, 1 nickel, 4 pennies) |
 
 ## Setup/Installation Requirements
 
